@@ -20,6 +20,11 @@
       "orcid": "0000-0002-4056-8114"
     }
   ],
+  "keywords": [
+    "Python",
+    "Mapper",
+    "Topological Data Analysis"
+  ],
   "license": "mit-license",
   "upload_type": "software"
 }
